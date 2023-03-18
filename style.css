@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+    background-color: yellow;
+    text-shadow: 0px 0px 12px aqua;
+}
+
+table,th,td{
+    text-align: center;
+    /* border: 1px solid black; */
+    /* border-collapse:collapse ; */
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+    padding: 10px 20px;
+    border: 1px;
+    border-color:  black ;
+    border-style: solid;
+    empty-cells: hide;
+}
+#h{
+    background-color: lightcoral;
+}
+.purple{
+    background-color: rgb(218, 157, 218);
+}
+.blue{
+    background-color: lightskyblue;
+}
+.yellow{
+    background-color: rgb(248, 248, 130);
+}
+.brown{
+    background-color:   rgb(214, 143, 50);
+}
+.green{
+    background-color: rgb(184, 233, 184);
+}
+.pink{
+    background-color: lightsalmon;
+}
+.skin{
+    background-color: wheat;
+}
+.sky{
+    background-color: rgb(212, 221, 224);
+}
+.bpink{
+    background-color: lavenderblush;
+}
+.tab{
+    margin-left: auto;
+    margin-right: auto;
+}
